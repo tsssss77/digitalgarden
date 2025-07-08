@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 小说/03 dc/02 进行中/黑袍纠察队/给黑袍一点小小的dc震撼/"}
+{"dg-publish":true,"permalink":"/02 小说/03 dc/02 进行中/黑袍纠察队/给黑袍一点小小的dc震撼/","noteIcon":""}
 ---
 
 ## Chapter 1

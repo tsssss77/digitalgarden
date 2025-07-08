@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/README/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/README/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 为了防止补档出问题所以我决定直接白嫖github服务器了。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 小说/03 dc/01 已完成/【batfam中心】林夏/"}
+{"dg-publish":true,"permalink":"/02 小说/03 dc/01 已完成/【batfam中心】林夏/","noteIcon":""}
 ---
 
 ## 预警
