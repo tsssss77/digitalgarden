@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 小说/03 dc/01 已完成/【白灰】The Fall Of Batman/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02 小说/03 dc/01 已完成/【白灰】The Fall Of Batman/","tags":["创作/10_其他/乙女向/否","创作/02_衍生/dc","创作/03_类型/故事片段","创作/04_进度/已完成","创作/10_其他/NSFW/否"],"noteIcon":""}
 ---
 
 
