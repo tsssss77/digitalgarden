@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00 草稿箱/readme/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00 草稿箱/readme/","contentClasses":"用于发布的网页样式","tags":["gardenEntry"]}
 ---
 
 

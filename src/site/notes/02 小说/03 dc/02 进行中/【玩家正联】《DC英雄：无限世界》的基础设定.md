@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 小说/03 dc/02 进行中/【玩家正联】《DC英雄：无限世界》的基础设定/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02 小说/03 dc/02 进行中/【玩家正联】《DC英雄：无限世界》的基础设定/"}
 ---
 
 

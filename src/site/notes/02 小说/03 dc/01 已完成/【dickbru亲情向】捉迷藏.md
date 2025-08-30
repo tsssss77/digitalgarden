@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 小说/03 dc/01 已完成/【dickbru亲情向】捉迷藏/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02 小说/03 dc/01 已完成/【dickbru亲情向】捉迷藏/"}
 ---
 
 
