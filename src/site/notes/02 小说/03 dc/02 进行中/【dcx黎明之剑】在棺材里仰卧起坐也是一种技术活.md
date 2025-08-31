@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 小说/03 dc/02 进行中/【dcx黎明之剑】在棺材里仰卧起坐也是一种技术活/"}
+{"dg-publish":true,"permalink":"/02 小说/03 dc/02 进行中/【dcx黎明之剑】在棺材里仰卧起坐也是一种技术活/","noteIcon":""}
 ---
 
 

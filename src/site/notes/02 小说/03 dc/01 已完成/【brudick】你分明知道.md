@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 小说/03 dc/01 已完成/【brudick】你分明知道/"}
+{"dg-publish":true,"permalink":"/02 小说/03 dc/01 已完成/【brudick】你分明知道/","noteIcon":""}
 ---
 
 
