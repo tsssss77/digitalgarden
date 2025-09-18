@@ -9,6 +9,6 @@
 
 https://tsssss77.netlify.app/
 
-以及这是主页的夸克链接：
+以及这是homepage的夸克链接：
 
 https://pan.quark.cn/s/79e7e3f3e4ce
